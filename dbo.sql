@@ -4,6 +4,12 @@ Navicat SQL Server Data Transfer
 Source Server         : ProduccionSQLServer
 Source Server Version : 140000
 Source Host           : 188.165.208.26\PRODUCCION,1433:1433
+
+estoy recibiendo tu busquedas desde la ip 188.165.208.26
+esto es una actividad ilegal y vas a ser denunciado
+si queres enterarte de vuelos baratos a Roma o Barcelona deberias simplemente crearte una alerta
+
+
 Source Database       : SanCristobal
 Source Schema         : dbo
 
